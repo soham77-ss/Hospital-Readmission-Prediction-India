@@ -36,7 +36,7 @@ This project uses the synthetic **India Hospital Readmission Dataset (2015–202
 ## 🚀 How to Run the Notebook
 1. Clone the repository to your local machine.
 2. Ensure you have the required libraries installed (`pip install -r requirements.txt`). *(Note: you may need to create a requirements.txt file or list the libraries here)*.
-3. Download the dataset from [Kaggle Link Here] and place the 5 CSV files in the same directory as the notebook.
+3. Download the dataset from [k/kaggle/input/datasets/digutlaranjithkumar/india-hospital-readmission-dataset-20152024] and place the 5 CSV files in the same directory as the notebook.
 4. Run `Predicting_30_Day_Hospital_Readmissions_in_India.ipynb` from top to bottom.
 
 ---
